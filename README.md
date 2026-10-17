@@ -17,11 +17,11 @@ sounds), background-persistent torch, home screen widget. Free, ad-supported, no
 </p>
 <img src="assets/xlight-iconwall.png" width="100%">
 
-**Currently in closed testing** — Google requires 20 testers over 14 days before the app can go
-public. Want to help test it (and get a shoutout when it launches)?
+**Now live on Google Play** — free, no account needed. Honest feedback or a rating helps a lot.
 
-1. Join the tester group → [groups.google.com/g/x-light-testers](https://groups.google.com/g/x-light-testers)
-2. Opt in → [play.google.com/apps/testing/com.oxgollum.xlight](https://play.google.com/apps/testing/com.oxgollum.xlight)
+[<img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Get_X_Light-3DDC84?logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.oxgollum.xlight)
+
+Developer site → [0xgollum.github.io](https://0xgollum.github.io)
 
 ---
 
