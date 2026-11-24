@@ -24,6 +24,8 @@ A bright LED flashlight that turns on in **one tap** — and looks like *you* wa
 
 The **Eisenhower matrix** in your pocket: every task lands in one of four boxes (urgent / important), with a to-do list inside each task. Tick, archive, restore from the bin, share, and **back up your data**. **11 languages**, made to keep things clear when your head is busy.
 
+<img src="assets/ike-shots.png" width="70%">
+
 [<img alt="Get it on Google Play" src="https://img.shields.io/badge/Google_Play-Get_Ike-3DDC84?logo=googleplay&logoColor=white">](https://play.google.com/store/apps/details?id=com.oxgollum.ike)
 
 ---
